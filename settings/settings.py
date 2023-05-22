@@ -10,4 +10,5 @@ HOME_MESSAGE = """
 Te dejo una lista de los comandos disponibles
 /ayuda : Muestra un mensaje de ayuda
 /links : Muestra los enlaces de nuestros sitios
+/event : Muestra el enlace del sitio oficial de eventos de IPVC_Cuba
 """
