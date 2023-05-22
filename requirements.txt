@@ -1,1 +1,5 @@
 pyTelegramBotAPI==4.9.0
+requests==2.28.2
+json
+pandas
+threading
