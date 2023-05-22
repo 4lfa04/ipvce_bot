@@ -32,7 +32,7 @@ Esta es la Lista de nuestros Sitios
 <a href="https://t.me/ipvcecubagrupo">Grupo de Telegram</a> 👥
 <a href="https://t.me/virtualipvcecuba">Canal de Telegram</a> 📺
 <a href="https://instagram.com/_ipvce?igshid=YmMyMTA2M2Y=">Instagram</a> 📷
-<a href="https://www.facebook.com/ipvcecuba?mibextid=ZbWKwL">facebook</a> ...
+<a href="https://www.facebook.com/ipvcecuba?mibextid=ZbWKwL">facebook</a> 📘
 </b>                   
                     ''',parse_mode="html")
     
